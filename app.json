@@ -19,7 +19,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.yourname.liquorbarcodeapp"  // <- REQUIRED FIELD
+      "package": "com.tl.liquorbarcodeapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
